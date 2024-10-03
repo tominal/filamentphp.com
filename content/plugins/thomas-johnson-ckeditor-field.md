@@ -1,9 +1,9 @@
 ---
-name: Filament CKEditor Field
-slug: filament-ckeditor-field
+name: CKEditor Field
+slug: thomas-johnson-ckeditor-field
 author_slug: thomas-johnson
 categories: [form-builder, form-field]
-description: Filament field for CKEditor 5.
+description: Fully featured CKEditor 5 field.
 docs_url: https://raw.githubusercontent.com/Kahu-Software-LLC/filament-ckeditor-field/1.x/README.md
 github_repository: kahu-software-llc/filament-ckeditor-field
 has_dark_theme: false
